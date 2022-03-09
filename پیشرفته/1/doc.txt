@@ -1,0 +1,17 @@
+ [1]
+    docstring
+    
+ [2]
+    This is a simple function which add two numbers.
+
+    Args:
+        a (int): a number
+        b (int): a number
+    
+ [2]
+    This is a simple function which add two numbers.
+
+    Args:
+        a (int): a number
+        b (int): a number
+    
